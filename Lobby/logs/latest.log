@@ -1,0 +1,39 @@
+[02:44:22] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:44:22] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:44:23] [ServerMain/INFO]: Loaded 7 recipes
+[02:44:24] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[02:44:24] [Server thread/INFO]: Loading properties
+[02:44:24] [Server thread/INFO]: This server is running Paper version git-Paper-299 (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT) (Git: 96d5e6c)
+[02:44:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:44:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:44:24] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:44:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[02:44:25] [Server thread/INFO]: Default game type: SURVIVAL
+[02:44:25] [Server thread/INFO]: Generating keypair
+[02:44:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:44:25] [Server thread/INFO]: Using default channel type
+[02:44:25] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[02:44:25] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[02:44:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:44:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:44:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:44:25] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[02:44:25] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
+[02:44:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:44:25] [Server thread/INFO]: Preparing level "world"
+[02:44:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:44:30] [Server thread/INFO]: Time elapsed: 76 ms
+[02:44:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:44:30] [Server thread/INFO]: Time elapsed: 36 ms
+[02:44:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:44:30] [Server thread/INFO]: Time elapsed: 28 ms
+[02:44:30] [Server thread/INFO]: Running delayed init tasks
+[02:44:30] [Server thread/INFO]: Done (6.189s)! For help, type "help"
+[02:44:30] [Server thread/INFO]: Timings Reset
+[02:45:02] [User Authenticator #0/INFO]: UUID of player CantFindDev is c18e9c24-1529-4d4c-980e-3891e2486a24
+[02:45:02] [Server thread/INFO]: CantFindDev joined the game
+[02:45:02] [Server thread/INFO]: CantFindDev[/127.0.0.1:61053] logged in with entity id 450 at ([world]7.5, 65.0, -21.5)
+[02:45:09] [Server thread/INFO]: CantFindDev lost connection: Disconnected
+[02:45:09] [Server thread/INFO]: CantFindDev left the game

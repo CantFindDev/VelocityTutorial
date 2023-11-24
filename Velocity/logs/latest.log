@@ -1,0 +1,13 @@
+[02:44:15] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.2.0-SNAPSHOT (git-8dcc7ee3-b294)...
+[02:44:15] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[02:44:15] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use NIO channels, Java compression, Java ciphers
+[02:44:15] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[02:44:15] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 0 plugins
+[02:44:15] [Netty NIO Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25577
+[02:44:15] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (0.71s)!
+[02:45:02] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] CantFindDev (/127.0.0.1:61049) has connected
+[02:45:02] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] CantFindDev -> lobby has connected
+[02:45:09] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] CantFindDev -> games has connected
+[02:45:09] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] CantFindDev -> lobby has disconnected
+[02:45:47] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] CantFindDev (/127.0.0.1:61049) has disconnected
+[02:45:47] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] CantFindDev -> games has disconnected
